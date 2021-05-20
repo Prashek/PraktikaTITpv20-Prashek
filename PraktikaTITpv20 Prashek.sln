@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PraktikaTITpv20 Prashek", "PraktikaTITpv20 Prashek\PraktikaTITpv20 Prashek.pyproj", "{0B104A3C-67D9-4E22-AF0F-78A757B584BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B104A3C-67D9-4E22-AF0F-78A757B584BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B104A3C-67D9-4E22-AF0F-78A757B584BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3E35460-B3CD-4E85-AD5D-AEED5A00C036}
+	EndGlobalSection
+EndGlobal
